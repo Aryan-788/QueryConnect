@@ -3,12 +3,23 @@
 ## Overview
 **QueryConnect** is a PHP-based web application designed to provide a platform for users to ask questions, provide answers, and engage in discussions across various categories. It supports user authentication, category management, and interaction functionalities, making it ideal for communities looking to share knowledge effectively.
 
+---
+
 ## Features
 - **User Authentication**: Secure signup and login functionalities.
 - **Ask and Answer Questions**: Users can post questions, provide answers, and interact with others.
 - **Category Management**: Organize questions into categories for easier navigation.
 - **Search and Filtering**: Search for questions or filter them by category, user, or latest additions.
 - **Responsive UI**: Designed with a clean interface for better user experience.
+
+---
+
+## Screenshot
+
+### Homepage
+![Homepage Screenshot](/home.png)
+
+---
 
 ## File Structure
 ### Root
@@ -31,6 +42,8 @@
 - `style.css`: Styling for the application.
 - `logo.png`: Placeholder for the application logo.
 
+---
+
 ## How to Run
 1. **Setup Environment**:
    - Install a local server (e.g., XAMPP, WAMP).
@@ -45,10 +58,14 @@
 4. **Start the Server**:
    - Launch your local server and open the project in a browser (e.g., `http://localhost/queryconnect`).
 
+---
+
 ## Technologies Used
 - **Backend**: PHP, MySQL
 - **Frontend**: HTML, CSS
 - **Server**: Localhost using XAMPP/WAMP
+
+---
 
 ## Future Enhancements
 - Implementing user roles and permissions.
